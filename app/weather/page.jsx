@@ -73,7 +73,7 @@ const WeatherApp = () => {
 
   return (
     <>
-      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191">Click me</a>
+      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
     <div className="">
     <NavBar/>
     <div className="absolute top-45 py-3 px-7">
@@ -114,7 +114,7 @@ const WeatherApp = () => {
       )}
     </div>
     </div>
-      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191">Click me</a>
+      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
     </>
   );
 };
