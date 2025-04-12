@@ -10,6 +10,7 @@ function page() {
 
   return (
     <>
+      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191">Click me</a>
     <div className="relative h-screen w-full bg-gray-400">
      <NavBar />
      <div className="text-black absolute top-40 py-5 px-10 max-sm:w-full max-sm:text-center">
@@ -20,6 +21,7 @@ function page() {
        </div>
      </div>
     </div>
+      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191">Click me</a>
     </>
   )
 }
