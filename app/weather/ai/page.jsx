@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react'
 import { GoogleGenAI } from "@google/genai";
 import { useRouter } from "next/navigation"
-
+import AdsterraSocialBar from '@/app/AdsterraSocialBar';
 
 function page() {
 
@@ -60,6 +60,7 @@ function page() {
 
   return (
     <>
+      <AdsterraSocialBar />
     <div className="font-bold bg-black text-white h-screen w-full p-5">
       <h1 className='text-2xl' onClick={()=>router.push("/")}>AI</h1>
       <form className='flex items-center gap-3' onSubmit={handleSubmit}>
@@ -78,6 +79,7 @@ function page() {
         )}
       </div>
     </div>
+      <AdsterraSocialBar />
     </>
   )
 }
