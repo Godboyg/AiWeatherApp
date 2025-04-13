@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import { WiDaySunny, WiCloudy, WiRain, WiSnow, WiFog } from "react-icons/wi";
 import NavBar from "../components/NavBar";
 import { useRouter } from "next/navigation"
+import AdsterraSocialBar from '@/app/AdsterraSocialBar';
 
 const WeatherApp = () => {
 
@@ -73,6 +74,7 @@ const WeatherApp = () => {
 
   return (
     <>
+      <AdsterraSocialBar />
       <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
     <div className="">
     <NavBar/>
@@ -90,6 +92,7 @@ const WeatherApp = () => {
         </div>
       )}
     </div>
+      <AdsterraSocialBar />
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-400 p-4">
       <h1 className="text-2xl font-bold mb-4">Weather Checker</h1>
       <div className="flex space-x-2 mb-4">
@@ -115,6 +118,7 @@ const WeatherApp = () => {
     </div>
     </div>
       <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
+      <AdsterraSocialBar />
     </>
   );
 };
