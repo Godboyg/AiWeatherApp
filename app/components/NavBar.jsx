@@ -44,7 +44,7 @@ function NavBar() {
 
   return (
     <>
-        <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
+        <a href="https://phoampor.top/4/9210263" target="_blank">Click me</a>
     <div className="absolute top-0 w-full bg-black py-4 px-9 flex items-center justify-between">
         <h1 className='text-white font-bold text-4xl max-sm:text-3xl hover:cursor-pointer' onClick={()=> router.push("/")}>Weather App</h1>
         <div className="h-[6vw] w-[6vw] max-sm:w-[17vw] max-sm:h-[17vw] rounded-full overflow-hidden">
@@ -52,6 +52,7 @@ function NavBar() {
         </div>
      </div>
         <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
+        <a href="https://phoampor.top/4/9210263" target="_blank">Click me monetag</a>
     </>
   )
 }
