@@ -75,6 +75,7 @@ const WeatherApp = () => {
   return (
     <>
       <AdsterraSocialBar />
+      <a href="https://phoampor.top/4/9210263" target="_blank">Click me monetag</a>
       <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
     <div className="">
     <NavBar/>
@@ -117,6 +118,7 @@ const WeatherApp = () => {
       )}
     </div>
     </div>
+      <a href="https://phoampor.top/4/9210263" target="_blank">Click me monetag</a>
       <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
       <AdsterraSocialBar />
     </>
