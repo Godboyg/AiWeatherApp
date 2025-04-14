@@ -12,7 +12,7 @@ function page() {
   return (
     <>
       <AdsterraSocialBar />
-      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
+      <a href="https://phoampor.top/4/9210263" target="_blank">Click me</a>
     <div className="relative h-screen w-full bg-gray-400">
      <NavBar />
       <AdsterraSocialBar />
@@ -24,7 +24,7 @@ function page() {
        </div>
      </div>
     </div>
-      <a href="https://www.profitableratecpm.com/ppwbfwy4r?key=7a50bbba28ebb474e210f95c12a2f191" target="_blank">Click me</a>
+      <a href="https://phoampor.top/4/9210263" target="_blank">Click me</a>
       <AdsterraSocialBar />
     </>
   )
